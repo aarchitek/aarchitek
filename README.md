@@ -14,7 +14,7 @@
 | [Tesco UK Scraper](https://apify.com/architekture/tesco-uk-scraper) | Tesco prices with resolved Clubcard & multibuy strings, GTIN barcodes, full category crawls | Akamai-fronted target solved with session warm-up + embedded-state parsing; validated runs published in README |
 | [Pak'nSave NZ Scraper](https://apify.com/architekture/paknsave-nz-scraper) | Foodstuffs NZ prices, specials, store context | Cloudflare clearance path reversed and replayed through the site's own edge API |
 
-The code behind two of these is public: [`new-world-nz-scraper`](https://github.com/aarchitek/new-world-nz-scraper) · [`tesco-uk-scraper`](https://github.com/aarchitek/tesco-uk-scraper).
+Actor source is intentionally private — buyers pay for the hosted, monitored product, not a repo to self-host.
 
 ---
 
